@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="afe61d7e-a6b7-4700-a854-7745b7524d96" name="ygk" url="http://120.26.45.128">
+        <fileTransfer host="120.26.45.128" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="21281ae6-60fa-46dc-82d9-cbdd585731d5" name="ichuk" url="http://121.43.101.63">
+        <fileTransfer host="121.43.101.63" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

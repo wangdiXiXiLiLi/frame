@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39104013-4a25-4879-b263-2eed6905cc79" name="Default" comment="" />
+    <ignored path="kittenframe.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kittenframe" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="enquiry.start.html" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/templets/theme/ygkpc/enquiry.start.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="1733" column="79" selection-start-line="1733" selection-start-column="79" selection-end-line="1733" selection-end-column="79" />
+              <folding>
+                <marker date="0" expanded="true" signature="12301:13451" ph="..." />
+                <marker date="0" expanded="false" signature="12336:12346" ph="..." />
+                <marker date="0" expanded="false" signature="12388:12398" ph="..." />
+                <marker date="0" expanded="true" signature="12400:12575" ph="..." />
+                <marker date="0" expanded="false" signature="12610:12620" ph="..." />
+                <marker date="0" expanded="true" signature="12622:12800" ph="..." />
+                <marker date="0" expanded="false" signature="12826:12836" ph="..." />
+                <marker date="0" expanded="true" signature="12838:12982" ph="..." />
+                <marker date="0" expanded="false" signature="13017:13026" ph="..." />
+                <marker date="0" expanded="true" signature="13028:13122" ph="..." />
+                <marker date="0" expanded="false" signature="13157:13167" ph="..." />
+                <marker date="0" expanded="true" signature="13169:13248" ph="..." />
+                <marker date="0" expanded="false" signature="13283:13293" ph="..." />
+                <marker date="0" expanded="true" signature="13295:13424" ph="..." />
+                <marker date="0" expanded="false" signature="13324:13335" ph="..." />
+                <marker date="0" expanded="true" signature="15982:16628" ph="..." />
+                <marker date="0" expanded="false" signature="16099:16122" ph="..." />
+                <marker date="0" expanded="false" signature="16210:16233" ph="..." />
+                <marker date="0" expanded="false" signature="16322:16345" ph="..." />
+                <marker date="0" expanded="false" signature="16440:16463" ph="..." />
+                <marker date="0" expanded="true" signature="17996:18050" ph="..." />
+                <marker date="0" expanded="true" signature="23536:23565" ph="..." />
+                <marker date="0" expanded="true" signature="23625:24610" ph="..." />
+                <marker date="0" expanded="true" signature="23654:23806" ph="..." />
+                <marker date="0" expanded="false" signature="23687:23709" ph="..." />
+                <marker date="0" expanded="true" signature="23835:23989" ph="..." />
+                <marker date="0" expanded="false" signature="23868:23890" ph="..." />
+                <marker date="0" expanded="true" signature="24018:24162" ph="..." />
+                <marker date="0" expanded="false" signature="24051:24073" ph="..." />
+                <marker date="0" expanded="true" signature="24191:24338" ph="..." />
+                <marker date="0" expanded="false" signature="24224:24246" ph="..." />
+                <marker date="0" expanded="true" signature="24367:24454" ph="..." />
+                <marker date="0" expanded="false" signature="24396:24418" ph="..." />
+                <marker date="0" expanded="true" signature="24483:24583" ph="..." />
+                <marker date="0" expanded="true" signature="39699:40012" ph="..." />
+                <marker date="0" expanded="true" signature="40350:40743" ph="..." />
+                <marker date="0" expanded="true" signature="40894:42067" ph="..." />
+                <marker date="0" expanded="true" signature="40929:41085" ph="..." />
+                <marker date="0" expanded="false" signature="40959:40999" ph="..." />
+                <marker date="0" expanded="false" signature="41039:41054" ph="..." />
+                <marker date="0" expanded="true" signature="41125:41283" ph="..." />
+                <marker date="0" expanded="false" signature="41155:41195" ph="..." />
+                <marker date="0" expanded="false" signature="41235:41250" ph="..." />
+                <marker date="0" expanded="true" signature="41315:41472" ph="..." />
+                <marker date="0" expanded="false" signature="41345:41385" ph="..." />
+                <marker date="0" expanded="false" signature="41425:41440" ph="..." />
+                <marker date="0" expanded="true" signature="41504:41669" ph="..." />
+                <marker date="0" expanded="false" signature="41534:41574" ph="..." />
+                <marker date="0" expanded="false" signature="41614:41629" ph="..." />
+                <marker date="0" expanded="true" signature="41704:41861" ph="..." />
+                <marker date="0" expanded="false" signature="41734:41774" ph="..." />
+                <marker date="0" expanded="false" signature="41814:41829" ph="..." />
+                <marker date="0" expanded="true" signature="41893:42050" ph="..." />
+                <marker date="0" expanded="false" signature="41923:41963" ph="..." />
+                <marker date="0" expanded="false" signature="42003:42018" ph="..." />
+                <marker date="0" expanded="true" signature="42481:43031" ph="..." />
+                <marker date="0" expanded="true" signature="42737:42877" ph="..." />
+                <marker date="0" expanded="true" signature="49461:49486" ph="..." />
+                <marker date="0" expanded="true" signature="49503:49542" ph="..." />
+                <marker date="0" expanded="false" signature="49800:49816" ph="..." />
+                <marker date="0" expanded="true" signature="49818:50177" ph="..." />
+                <marker date="0" expanded="true" signature="50957:50984" ph="..." />
+                <marker date="0" expanded="false" signature="50979:50983" ph="..." />
+                <marker date="0" expanded="true" signature="51063:51078" ph="..." />
+                <marker date="0" expanded="true" signature="51122:51126" ph="&lt;" />
+                <marker date="0" expanded="true" signature="51198:51202" ph="&lt;" />
+                <marker date="0" expanded="true" signature="51490:51505" ph="..." />
+                <marker date="0" expanded="true" signature="51858:51873" ph="..." />
+                <marker date="0" expanded="false" signature="52017:52032" ph="..." />
+                <marker date="0" expanded="true" signature="52232:52247" ph="..." />
+                <marker date="0" expanded="true" signature="52578:52593" ph="..." />
+                <marker date="0" expanded="true" signature="52731:52746" ph="..." />
+                <marker date="0" expanded="true" signature="53080:53095" ph="..." />
+                <marker date="0" expanded="false" signature="53239:53254" ph="..." />
+                <marker date="0" expanded="true" signature="53439:53454" ph="..." />
+                <marker date="0" expanded="true" signature="53498:53502" ph="&gt;" />
+                <marker date="0" expanded="true" signature="53574:53578" ph="&gt;" />
+                <marker date="0" expanded="true" signature="53689:54013" ph="..." />
+                <marker date="0" expanded="false" signature="53825:53839" ph="..." />
+                <marker date="0" expanded="true" signature="54603:55374" ph="..." />
+                <marker date="0" expanded="false" signature="54737:54760" ph="..." />
+                <marker date="0" expanded="false" signature="54871:54894" ph="..." />
+                <marker date="0" expanded="false" signature="55007:55030" ph="..." />
+                <marker date="0" expanded="false" signature="55165:55188" ph="..." />
+                <marker date="0" expanded="true" signature="59856:59881" ph="..." />
+                <marker date="0" expanded="true" signature="59898:59938" ph="..." />
+                <marker date="0" expanded="false" signature="60331:60347" ph="..." />
+                <marker date="0" expanded="true" signature="60349:60725" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goodsmanager.property.html" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;21281ae6-60fa-46dc-82d9-cbdd585731d5&gt;/ichukdata1/html/project/labring/html/manager/goodsmanager.property.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1689">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="propertyManager.js" pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;21281ae6-60fa-46dc-82d9-cbdd585731d5&gt;/ichukdata1/html/project/labring/js/manager/propertyManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-456">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/core/do/do.submitenquiryselect.php" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/core/enquirytender/enquirytender.php" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/templets/theme/ygkpc/enquirytender.html" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html/core/do/do.submitenquiryselect.php" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html/core/enquirytender/enquirytender.php" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/templets/theme/ygkpc/enquiry.html" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html/templets/theme/ygkpc/enquiry.html" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/css/ygkpc/css/enquiry.css" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html/css/ygkpc/css/enquiry.css" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html/templets/theme/ygkpc/enquiry.start.html" />
+        <option value="&lt;afe61d7e-a6b7-4700-a854-7745b7524d96&gt;/html2/templets/theme/ygkpc/enquiry.start.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-65" />
+    <option name="y" value="84" />
+    <option name="width" value="1423" />
+    <option name="height" value="856" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2809524" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39104013-4a25-4879-b263-2eed6905cc79" name="Default" comment="" />
+      <created>1487605939661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487605939661</updated>
+      <workItem from="1487605940809" duration="656000" />
+      <workItem from="1487606616220" duration="1172000" />
+      <workItem from="1487607808189" duration="195000" />
+      <workItem from="1487608018047" duration="1000000" />
+      <workItem from="1487640384112" duration="471000" />
+      <workItem from="1487640871370" duration="1037000" />
+      <workItem from="1487641928375" duration="7361000" />
+      <workItem from="1487660360581" duration="9837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21729000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-65" y="84" width="1423" height="856" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27860695" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22281522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3455637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949933" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABMHzmlbt5h7d6jNuXqxQ4UlmX5NoBBK1mvnTFtriM8gUL1b/IS7i4qRVjpnBKfMumh8166jH1f3AV3Nw3q9brTDi5rFe0k3fxQ786LdDqSvjFyy7MYmcJ6+OdhyxfDHQ+K3a2a3pV3eNJ5rmo+wI+32sRNItLPkCLn+2VhMbk+NvSxZebckUpHqxMyTScD0xCSeW11CK1vF0girKH7E8HF3uIRw1PHJmHXRAt+uAR5KA3o8P6Vz8BTMJTOX/8fAH4AfRpQott6rznPFKNC87TyIlf7eK9bBx18LZuX/QcsTpYZoAZKbn6i+z3Eg+CDvSvgS64Ys8bodUJcYhyUxXgG2uUc0KmInzcVOh4PYE0vTcsV171OV3/TmHJ5pk8KQplkQYNG/PlhK4za4hUx/Pvd5bxVMt/84+MYta0cEfC1fon</data>
+  </component>
+</project>
